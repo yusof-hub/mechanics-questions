@@ -1,0 +1,287 @@
+[
+  {
+    "question": "Find the coefficient of x³ in the expansion of (2x³ - 5x² + 2x -1)(3x³ + 2x² - 9x +7).",
+    "type": "mcq",
+    "options": [
+      "A. 14",
+      "B. 45",
+      "C. 60",
+      "D. 75"
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Multiply out and simplify: - (x + 1)(x² + 1)(1 - x + x²), writing the answer in ascending powers of x.",
+    "type": "mcq",
+    "options": [
+      "A. 1 + x + x³ + x⁴",
+      "B. 1 + x² + x³ + x⁵",
+      "C. x + x² + x³ + x⁴",
+      "D. x³ + x⁵"
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Solve the equation x³ + x² - (x - 1)(x - 2)(x - 3) = 12.",
+    "type": "mcq",
+    "options": [
+      "A. x = 3",
+      "B. x = -3/7, 2",
+      "C. x = 2 only",
+      "D. x = -1, 3"
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "What is the number of zeros that a cubic polynomial has?",
+    "type": "mcq",
+    "options": ["A. 0", "B. 1", "C. 2", "D. 3"],
+    "answer": ["D"]
+  },
+  {
+    "question": "If the zeros of the quadratic polynomial x²+(a+1)x+b are 2 and -3, then:",
+    "type": "mcq",
+    "options": [
+      "A. a=-7,b=-1",
+      "B. a=5,b=-1",
+      "C. a=2,b=-6",
+      "D. a=0,b=-6"
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "If x⁵ + 2x⁴ + x + 6 is divided by g(x), and the quotient is x² + 5x + 7, then the possible degree of g(x) is:",
+    "type": "mcq",
+    "options": ["A. 4", "B. 3", "C. 2", "D. 5"],
+    "answer": ["B"]
+  },
+  {
+    "question": "A quadratic polynomial whose zeros are -3 and 4 is:",
+    "type": "mcq",
+    "options": [
+      "A. x² - x + 12",
+      "B. x² + x + 12",
+      "C. ½x² - ½x - 6",
+      "D. 2x² + 2x - 24"
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "If the zeros of the quadratic polynomial ax² + bx + c are equal and c ≠ 0, then:",
+    "type": "mcq",
+    "options": [
+      "A. c and a have opposite signs",
+      "B. c and b have opposite signs",
+      "C. c and a have the same signs",
+      "D. c and b have the same signs"
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "A quadratic polynomial whose zeros are -4 and -5 is:",
+    "type": "mcq",
+    "options": [
+      "A. x² - 9x + 20",
+      "B. x² + 9x + 20",
+      "C. x² - 9x - 20",
+      "D. x² + 9x - 20"
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "If α and β are the zeros of the polynomial 6x² - x - 2, then α + β = ?",
+    "type": "mcq",
+    "options": ["A. -1/6", "B. 1/6", "C. -6", "D. 6"],
+    "answer": ["B"]
+  },
+  {
+    "question": "If (x - 1) and (x + 2) are the factors of kx² + 3x - 2, then find k.",
+    "type": "mcq",
+    "options": ["A. 2", "B. 1", "C. 3", "D. 4"],
+    "answer": ["A"]
+  },
+  {
+    "question": "If the zeros of the polynomial p(x) = 3x² + 13x + k are reciprocal to each other, find the value of k.",
+    "type": "mcq",
+    "options": ["A. 3", "B. 13", "C. 9", "D. 15"],
+    "answer": ["A"]
+  },
+  {
+    "question": "If p(x) = x³ - 2x² - 4x + 8, then p(2) equals:",
+    "type": "mcq",
+    "options": ["A. 0", "B. 2", "C. 4", "D. 6"],
+    "answer": ["A"]
+  },
+  {
+    "question": "Find the remainder when f(x) = 2x³ - 5x² + 2x - 7 is divided by (x - 3).",
+    "type": "mcq",
+    "options": ["A. 0", "B. 1", "C. -1", "D. 2"],
+    "answer": ["C"]
+  },
+  {
+    "question": "If f(x) = x³ - 4x² + x + 6, find the remainder when divided by (x - 2).",
+    "type": "mcq",
+    "options": ["A. 0", "B. 2", "C. 4", "D. 6"],
+    "answer": ["D"]
+  },
+  {
+    "question": "What is the degree of the polynomial 7x⁵ - 4x³ + 2x - 9?",
+    "type": "mcq",
+    "options": ["A. 1", "B. 3", "C. 5", "D. 7"],
+    "answer": ["C"]
+  },
+  {
+    "question": "If one zero of the polynomial 3x² + kx - 10 is 2, then the value of k is:",
+    "type": "mcq",
+    "options": ["A. -1", "B. 1", "C. 2", "D. -2"],
+    "answer": ["A"]
+  },
+  {
+    "question": "Find the sum and product of zeros of p(x) = 2x² - 3x - 5.",
+    "type": "mcq",
+    "options": [
+      "A. Sum = 3/2, Product = -5/2",
+      "B. Sum = -3/2, Product = 5/2",
+      "C. Sum = 2/3, Product = -5/2",
+      "D. Sum = -2/3, Product = 5/2"
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "If p(x) = 2x² + 5x - 3, then p(1) + p(-1) = ?",
+    "type": "mcq",
+    "options": ["A. 4", "B. 2", "C. -2", "D. -4"],
+    "answer": ["A"]
+  },
+  {
+    "question": "If f(x) = x³ - 2x² + x - 3, find the remainder when f(x) is divided by (x - 2).",
+    "type": "mcq",
+    "options": ["A. 0", "B. 1", "C. 3", "D. -3"],
+    "answer": ["C"]
+  },
+  {
+    "question": "The zeros of a polynomial p(x) are -1, 0, and 3. Find the polynomial.",
+    "type": "mcq",
+    "options": [
+      "A. p(x) = x(x + 1)(x - 3)",
+      "B. p(x) = (x - 1)(x + 3)(x - 3)",
+      "C. p(x) = (x + 1)(x - 3)(x + 2)",
+      "D. p(x) = x³ + x² - 9x"
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "If the polynomial 2x³ + 3x² - 11x + 6 is divided by (x - 2), then the remainder is:",
+    "type": "mcq",
+    "options": ["A. 0", "B. 2", "C. 4", "D. 6"],
+    "answer": ["A"]
+  },
+  {
+    "question": "If (x + 3) is a factor of x³ + ax² + 3x + 1, then find the value of a.",
+    "type": "mcq",
+    "options": ["A. 5", "B. -8", "C. -10", "D. 8"],
+    "answer": ["C"]
+  },
+  {
+    "question": "Find the remainder when p(x) = 4x³ - 3x² + 2x - 5 is divided by (x - 1).",
+    "type": "mcq",
+    "options": ["A. 0", "B. 2", "C. -2", "D. -3"],
+    "answer": ["B"]
+  },
+  {
+    "question": "If the zeros of the polynomial 3x² - kx + 4 are equal, find k.",
+    "type": "mcq",
+    "options": ["A. 4", "B. -4", "C. ±4√3", "D. ±√48"],
+    "answer": ["C"]
+  },
+  {
+    "question": "The polynomial whose zeros are 2 and -5 is:",
+    "type": "mcq",
+    "options": [
+      "A. x² + 3x - 10",
+      "B. x² - 3x - 10",
+      "C. x² + 3x + 10",
+      "D. x² - 3x + 10"
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "If f(x) = x³ + 2x² - 4x - 8, then f(-2) equals:",
+    "type": "mcq",
+    "options": ["A. 0", "B. -4", "C. 4", "D. 8"],
+    "answer": ["A"]
+  },
+  {
+    "question": "If (x - 1) is a factor of the polynomial 2x³ + kx² + 2x - 3, then find the value of k.",
+    "type": "mcq",
+    "options": ["A. 1", "B. 3", "C. 4", "D. -1"],
+    "answer": ["B"]
+  },
+  {
+    "question": "If the polynomial p(x) = x³ + 3x² + 3x + k is divisible by (x + 1), find k.",
+    "type": "mcq",
+    "options": ["A. 0", "B. -1", "C. 1", "D. -2"],
+    "answer": ["B"]
+  },
+  {
+    "question": "If the zeros of the polynomial p(x) = x² - 7x + k are equal, then find the value of k.",
+    "type": "mcq",
+    "options": ["A. 49/4", "B. 7", "C. 14", "D. 0"],
+    "answer": ["A"]
+  },
+  {
+    "question": "If (x + 1) is a factor of the polynomial 2x³ + 3x² - 8x + k, find k.",
+    "type": "mcq",
+    "options": ["A. 3", "B. -3", "C. 5", "D. -5"],
+    "answer": ["B"]
+  },
+  {
+    "question": "Find the remainder when f(x) = 3x³ + 2x² - 5x + 1 is divided by (x - 2).",
+    "type": "mcq",
+    "options": ["A. 0", "B. 3", "C. 5", "D. 7"],
+    "answer": ["C"]
+  },
+  {
+    "question": "If one zero of the polynomial 3x² - 7x + k is 2, then the value of k is:",
+    "type": "mcq",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": ["A"]
+  },
+  {
+    "question": "If p(x) = 2x² + 3x + 1, then p(-1) equals:",
+    "type": "mcq",
+    "options": ["A. 0", "B. 2", "C. -2", "D. -4"],
+    "answer": ["C"]
+  },
+  {
+    "question": "Find the degree of the polynomial f(x) = 4x⁵ - 3x³ + 2x² - 7x + 1.",
+    "type": "mcq",
+    "options": ["A. 1", "B. 3", "C. 5", "D. 7"],
+    "answer": ["C"]
+  },
+  {
+    "question": "If the zeros of the polynomial x² - 5x + 6 are α and β, then αβ = ?",
+    "type": "mcq",
+    "options": ["A. 6", "B. -6", "C. 5", "D. -5"],
+    "answer": ["A"]
+  },
+  {
+    "question": "The sum of zeros of the polynomial 2x² + 3x + 1 is:",
+    "type": "mcq",
+    "options": ["A. 3/2", "B. -3/2", "C. 2/3", "D. -2/3"],
+    "answer": ["B"]
+  },
+  {
+    "question": "If the zeros of the polynomial p(x) = 4x² + 5x + 1 are reciprocal to each other, find the value of p(1).",
+    "type": "mcq",
+    "options": ["A. 8", "B. 10", "C. 12", "D. 14"],
+    "answer": ["B"]
+  },
+  {
+    "question": "If f(x) = x³ - 2x² - x + 2, find f(-1).",
+    "type": "mcq",
+    "options": ["A. 0", "B. 1", "C. -1", "D. 2"],
+    "answer": ["A"]
+  }
+
+]
